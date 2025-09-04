@@ -1,16 +1,47 @@
-# todoapp
+# Todo App
 
-A new Flutter project.
+A simple Flutter Todo App for managing daily tasks.
 
-## Getting Started
+## Table of Content
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Requirements](#requirements)
+- [Setup](#setup)
 
-This project is a starting point for a Flutter application.
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- View tasks in a list
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+Home Screen:
+![Home Screen](assets/screenshots/homescreen1.jpeg)
+![Home Screen](assets/screenshots/homescreen2.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add Task:
+![Add Task](assets/screenshots/addtask.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Select Date:
+![Select Date](assets/screenshots/selectdate.jpeg)
+
+Select Time:
+![Select Time](assets/screenshots/selecttime.jpeg)
+
+Calendar Screen:
+![Calendar Screen](assets/screenshots/calendarscreen.jpeg)
+
+Delete Task:
+![Delete Task](assets/screenshots/deletetask.jpeg)
+![Delete Task](assets/screenshots/deletetask2.jpeg)
+
+## Requirements
+- Flutter 3.x or higher
+- Dart SDK
+- Android Studio or VS Code
+- Emulator or physical device
+
+## Setup
+1. Clone this repository.
+2. Ensure you have Flutter installed.
+3. Run flutter pub get to install dependencies.
+4. Run flutter run to launch the app on your device or simullator.
